@@ -1,5 +1,5 @@
 # Stellar-Express-SSH-Password-Update
-Small tool to allow the update of the "support" user password for a given cluster
+Small tool to allow the update of the "support" user password for a given cluster. There is a mandatory dependence ony "paramiko" (pip3 install paramiko).
 
 # Usage (-h)
 ```
